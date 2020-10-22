@@ -19,7 +19,7 @@ Layout
 </p> <br>
   
 <img alt="Happy" src="https:////github.com/guilhermecapitao/nlw3-discovery-happy/raw/9b50eab9aba16fa79e781a03bb6ffea0428be758/.github/happy.png">
-</a>
+
 <img alt="Happy" src="./public/images/map">
 
 ### 🚀 TECNOLOGIAS
