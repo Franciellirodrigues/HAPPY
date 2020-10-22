@@ -19,9 +19,10 @@ Layout
 </p> <br>
   
 <img alt="Happy" src="https:////github.com/guilhermecapitao/nlw3-discovery-happy/raw/9b50eab9aba16fa79e781a03bb6ffea0428be758/.github/happy.png">
-
-<img alt="Happy" src="./public/images/map">
-
+<<img src="./public/images/map" alt="Mapa"/>
+<<img src="./public/orphanage-page1" alt="Orfanato"/>
+<<img src="./public/orphanage-page2" alt="Orfanato"/>
+</a>
 ### 🚀 TECNOLOGIAS
 <hr>
 - HTML5<br>
@@ -43,4 +44,5 @@ Você pode visualizar o layout do projeto através dos links abaixo:
 💡 Lembrando que você precisa ter uma conta no <a href="https://www.figma.com/file/mDEbnoojksG4w8sOxmudh3/Happy-Web" rel="nofollow">Figma</a>  para acessá-lo.
 
           Desenvolvido com 💜 por Francielli Rodrigues
+
 
