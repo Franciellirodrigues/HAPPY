@@ -18,15 +18,21 @@ Projeto
 Layout
 </p> <br>
   
-<img alt="Happy" src="https:////github.com/guilhermecapitao/nlw3-discovery-happy/raw/9b50eab9aba16fa79e781a03bb6ffea0428be758/.github/happy.png">
-</a>
+<img alt="Happy" src="https://github.com/guilhermecapitao/nlw3-discovery-happy/blob/9b50eab9aba16fa79e781a03bb6ffea0428be758/.github/happy.png"> </a>
 
+
+
+<video width="852" height="480" controls> 
+<source src="happy.mp4" type="happy/mp4"/>
+
+</video>
 
 ### 🚀 TECNOLOGIAS
 <hr>
-- HTML<br>
-- CSS<br>
-- JAVA SCRIPT<br><hr>
+- HTML5<br>
+- CSS3<br>
+- JAVA SCRIPT<br>
+- React<br><hr>
 
 ### 💻 PROJETO
 
