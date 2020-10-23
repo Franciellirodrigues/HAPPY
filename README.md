@@ -18,16 +18,15 @@ Projeto
 Layout
 </p> <br>
   
-<img alt="Happy" src="https://github.com/guilhermecapitao/nlw3-discovery-happy/blob/9b50eab9aba16fa79e781a03bb6ffea0428be758/.github/happy.png"> </a>
-
+<img alt="Happy" src="https:////github.com/guilhermecapitao/nlw3-discovery-happy/raw/9b50eab9aba16fa79e781a03bb6ffea0428be758/.github/happy.png">
+</a>
 
 
 ### 🚀 TECNOLOGIAS
 <hr>
-- HTML5<br>
-- CSS3<br>
-- JAVA SCRIPT<br>
-- React<br><hr>
+- HTML<br>
+- CSS<br>
+- JAVA SCRIPT<br><hr>
 
 ### 💻 PROJETO
 
@@ -43,3 +42,4 @@ Você pode visualizar o layout do projeto através dos links abaixo:
 💡 Lembrando que você precisa ter uma conta no <a href="https://www.figma.com/file/mDEbnoojksG4w8sOxmudh3/Happy-Web" rel="nofollow">Figma</a>  para acessá-lo.
 
           Desenvolvido com 💜 por Francielli Rodrigues
+
