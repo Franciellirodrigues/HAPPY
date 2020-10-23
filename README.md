@@ -18,14 +18,11 @@ Projeto
 Layout
 </p> <br>
   
-<img alt="Happy" src="https://github.com/guilhermecapitao/nlw3-discovery-happy/blob/9b50eab9aba16fa79e781a03bb6ffea0428be758/.github/happy.png"> </a>
+<img alt="Happy" src="https://github.com/guilhermecapitao/nlw3-discovery-happy/blob/9b50eab9aba16fa79e781a03bb6ffea0428be758/.github/happy.png"> 
 
 
-
-<video width="852" height="480" controls> 
-<source src="happy.mp4" type="happy/mp4"/>
-
-</video>
+<img alt="gifHappy" src="https://ik.imagekit.io/atnyozbx9v/happy.mp4_tJMO99Q3c.gif">
+</a>
 
 ### 🚀 TECNOLOGIAS
 <hr>
@@ -44,8 +41,14 @@ Este é um projeto desenvolvido durante a <a href="https://nextlevelweek.com/ins
 
 Você pode visualizar o layout do projeto através dos links abaixo:
 
-<a href="https://www.figma.com/file/mDEbnoojksG4w8sOxmudh3/Happy-Web" rel="nofollow">Layout Web</a><hr><br><br>
+<a href="https://www.figma.com/file/mDEbnoojksG4w8sOxmudh3/Happy-Web" rel="nofollow">Layout Web</a><hr>
+
+### 📜 LICENÇA
+
+Este repositório está sob licença MIT. Você pode ver o arquivo<a href="https://github.com/felipecastrosales/Happy/blob/master/LICENSE" rel="nofollow"> LICENSE </a>para mais detalhes. 😉
+<hr><br><br>
 💡 Lembrando que você precisa ter uma conta no <a href="https://www.figma.com/file/mDEbnoojksG4w8sOxmudh3/Happy-Web" rel="nofollow">Figma</a>  para acessá-lo.
 
           Desenvolvido com 💜 por Francielli Rodrigues
+
 
