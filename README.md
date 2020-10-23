@@ -46,7 +46,7 @@ Você pode visualizar o layout do projeto através dos links abaixo:
 ### 📜 LICENÇA
 
 Este repositório está sob licença MIT. Você pode ver o arquivo<a href="https://github.com/felipecastrosales/Happy/blob/master/LICENSE" rel="nofollow"> LICENSE </a>para mais detalhes. 😉
-<hr><br><br>
+<hr><br>
 💡 Lembrando que você precisa ter uma conta no <a href="https://www.figma.com/file/mDEbnoojksG4w8sOxmudh3/Happy-Web" rel="nofollow">Figma</a>  para acessá-lo.
 
           Desenvolvido com 💜 por Francielli Rodrigues
