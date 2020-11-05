@@ -33,7 +33,7 @@ Layout
 
 ### 💻 PROJETO
 
-O Happy é um projeto que visa facilitar visitas aos orfanatos próximos a você 💚
+O Happy é uma plataforma para localização de orfanatos e agendamento de visitas. O Happy foi pensado em homenagem ao Dia das Crianças, com o intuito de trazer mais amor e carinho para crianças que vivem em orfanatos. 💚
 
 Este é um projeto desenvolvido durante a <a href="https://nextlevelweek.com/inscricao/3" rel="nofollow">Next Level Week</a> , realizada pela @Rocketseat durante os dias 12 a 18 de Outubro de 2020.<hr>
 
