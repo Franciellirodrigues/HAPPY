@@ -28,8 +28,8 @@ Layout
 <hr>
 - HTML5<br>
 - CSS3<br>
-- JAVA SCRIPT<br>
-- React<br><hr>
+- JAVA SCRIPT<br><hr>
+
 
 ### 💻 PROJETO
 
