@@ -1,51 +1,57 @@
 <h1 align="center">
-<img src="https://ik.imagekit.io/atnyozbx9v/logo_VPfcoJajh.svg">
+    <img alt="Happy" title="Happy" src=".github/logo.svg" />
 </h1>
+
 <p align="center">
-<a href="#rocket-tecnologias">
-<g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji>
-Tecnologias
-</a></h1>
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a href="#-projeto">
-<g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji>
-Projeto
-</a>
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
 
-<a href="#layout">
-<g-emoji class="g-emoji" alias="bookmark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f516.png">🔖</g-emoji>
-Layout
-</p> <br>
-  
-<img alt="Happy" src="https://github.com/guilhermecapitao/nlw3-discovery-happy/blob/9b50eab9aba16fa79e781a03bb6ffea0428be758/.github/happy.png"> 
+<p align="center">
+ <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=15C3D6&labelColor=000000" alt="PRs welcome!" />
 
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=15C3D6&labelColor=000000">
+</p>
 
-<img alt="gifHappy" src="https://ik.imagekit.io/atnyozbx9v/happy.mp4_tJMO99Q3c.gif">
-</a>
+<br>
 
-### 🚀 TECNOLOGIAS
-<hr>
-- HTML5<br>
-- CSS3<br>
-- JAVA SCRIPT<br><hr>
+<p align="center">
+  <img alt="Happy" src=".github/happy.png" width="100%">
+</p>
 
+## 🚀 Tecnologias
 
-### 💻 PROJETO
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-O OriginSix é um site para comerciantes. O OriginSix foi desenvolvido em prol dos comerciantes com intuito de divulgar os serviços oferecidos pelo estabelecimento.
+- [Node.js](https://nodejs.org/en/)
+- [React](https://reactjs.org)
+- [React Native](https://facebook.github.io/react-native/)
+- [Expo](https://expo.io/)
+- [TypeScript](https://www.typescriptlang.org/)
 
-Este é um projeto desenvolvido durante a <a href="https://nextlevelweek.com/convite/franciellirodrigues/6" rel="nofollow">Next Level Week</a> , realizada pela @Rocketseat durante os dias 20 a 27 de junho de 2021.<hr>
+## 💻 Projeto
 
-### 🔖 LAYOUT
+O Happy é uma aplicação que conecta pessoas à casas de acolhimento institucional para fazer o dia de muitas crianças mais feliz 💜
 
-Você pode visualizar o layout do projeto através dos links abaixo:
+## 🔖 Layout
 
-<a href="https://bit.ly/3h1ze7O" rel="nofollow">Layout Web</a><hr>
+Nos links abaixo você encontra o layout do projeto web e também do mobile. Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
 
+- [Layout Web](https://www.figma.com/file/mDEbnoojksG4w8sOxmudh3/Happy-Web)
+- [Layout Mobile](https://www.figma.com/file/X27FfVxAgy9f5IFa7ONlph/Happy-Mobile)
 
-💡 Lembrando que você precisa ter uma conta no <a href="https://www.figma.com/file/mDEbnoojksG4w8sOxmudh3/Happy-Web" rel="nofollow">Figma</a>  para acessá-lo.
+## 🧠 Desafio
 
-          Desenvolvido com 💜 por Francielli Rodrigues
+No link a seguir você encontra o guia no Notion referente aos desafios propostos para que você possa percorrer a milha extra e incrementar ainda mais essa aplicação. Lá também você encontra um guia mostrando todo o passo a passo de como realizar o deploy tanto do backend quanto do frontend.
 
+- [Desafio Happy 2.0](https://www.notion.so/Vers-o-2-0-do-Happy-c754db7a4d41469e8c2d00fcf75392c4)
 
+## :memo: Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+
+---
+
+Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
